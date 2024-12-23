@@ -1,0 +1,10 @@
+.bottle{
+    border: 5px solid aqua;
+    margin: 15px;
+    color: black;
+    background-color: bisque;
+
+}
+ .bottle img{
+    width: 200px;
+ }
